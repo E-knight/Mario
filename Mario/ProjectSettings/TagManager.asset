@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Platform
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Block
+  - Scenery
+  - Mario
+  - Flag
+  - Pipe
+  - Marble
+  - Enemy
+  - Starman
+  - Effect
+  - Powerdown Mario
+  - Foot Box
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Scenery
+    uniqueID: 192943025
+    locked: 0
+  - name: Before Background
+    uniqueID: 2179836907
+    locked: 0
+  - name: Behind Platform
+    uniqueID: 769260649
+    locked: 0
+  - name: Platform
+    uniqueID: 3837977763
+    locked: 0
+  - name: Enemy
+    uniqueID: 882945901
+    locked: 0
+  - name: Background
+    uniqueID: 2412051083
+    locked: 0
+  - name: Player
+    uniqueID: 2154265239
+    locked: 0
+  - name: Before Player
+    uniqueID: 2480249463
+    locked: 0
+  - name: Behind Enemy
+    uniqueID: 3050682711
+    locked: 0
+  - name: UI
+    uniqueID: 1564603897
+    locked: 0
+  - name: Marble
+    uniqueID: 4079469973
+    locked: 0
+  - name: Foreground Effect
+    uniqueID: 3971243255
+    locked: 0
